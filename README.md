@@ -5,6 +5,7 @@ Leetcode 코딩테스트
 # Math
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/thejs89/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thejs89/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/thejs89/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 # Greedy
@@ -27,6 +28,7 @@ Leetcode 코딩테스트
 # Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/thejs89/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thejs89/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 # Backtracking
 |  |
