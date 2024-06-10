@@ -23,6 +23,7 @@ Leetcode 코딩테스트
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thejs89/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thejs89/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3226-minimum-number-game](https://github.com/thejs89/leetcode/tree/master/3226-minimum-number-game) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/thejs89/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 # Two Pointers
 |  |
 | ------- |
