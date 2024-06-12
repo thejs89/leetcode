@@ -8,6 +8,7 @@ Leetcode 코딩테스트
 | [1806-count-of-matches-in-tournament](https://github.com/thejs89/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thejs89/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/thejs89/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2752-sum-multiples](https://github.com/thejs89/leetcode/tree/master/2752-sum-multiples) |
 # Greedy
 |  |
 | ------- |
