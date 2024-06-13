@@ -22,6 +22,7 @@ Leetcode 코딩테스트
 |  |
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/thejs89/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1944-truncate-sentence](https://github.com/thejs89/leetcode/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thejs89/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/thejs89/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3226-minimum-number-game](https://github.com/thejs89/leetcode/tree/master/3226-minimum-number-game) |
@@ -76,3 +77,4 @@ Leetcode 코딩테스트
 |  |
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/thejs89/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1944-truncate-sentence](https://github.com/thejs89/leetcode/tree/master/1944-truncate-sentence) |
