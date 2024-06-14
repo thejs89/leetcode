@@ -8,6 +8,7 @@ Leetcode 코딩테스트
 | [1806-count-of-matches-in-tournament](https://github.com/thejs89/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thejs89/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/thejs89/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2571-find-the-pivot-integer](https://github.com/thejs89/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/thejs89/leetcode/tree/master/2752-sum-multiples) |
 # Greedy
 |  |
@@ -78,3 +79,7 @@ Leetcode 코딩테스트
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/thejs89/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/thejs89/leetcode/tree/master/1944-truncate-sentence) |
+# Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/thejs89/leetcode/tree/master/2571-find-the-pivot-integer) |
