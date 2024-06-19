@@ -79,6 +79,7 @@ Leetcode 코딩테스트
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/thejs89/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/thejs89/leetcode/tree/master/1944-truncate-sentence) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/thejs89/leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 # Prefix Sum
 |  |
 | ------- |
