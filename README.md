@@ -23,6 +23,7 @@ Leetcode 코딩테스트
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thejs89/leetcode/tree/master/0001-two-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/thejs89/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/thejs89/leetcode/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thejs89/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -87,3 +88,7 @@ Leetcode 코딩테스트
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/thejs89/leetcode/tree/master/2571-find-the-pivot-integer) |
+# Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thejs89/leetcode/tree/master/0001-two-sum) |
