@@ -1,23 +1,16 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x == 0) return true;
-
-        if(x < 0 || x % 10 == 0) return false;
-
-        int reverse = 0;
-        while (x > reverse) {
-            int pop = x % 10;
-            x = x / 10;
-
-            reverse = (reverse * 10) + pop;
-
+        int revno = 0;
+        int y=x;
+        while(x>0){
+            int rem = x % 10;
+            revno = revno*10+rem;
+            x/=10;
         }
-
-        if(x== reverse || x == reverse / 10) {
+        if(y==revno){
             return true;
-        }else{
-            return false;
         }
+        return false;
         
     }
 }
